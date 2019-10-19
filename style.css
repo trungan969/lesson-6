@@ -1,0 +1,31 @@
+﻿h2 {
+  text-align: center;
+  color: orange;
+  border: double orange;
+}
+.q1 {
+  color: red;
+  font-size: 300%;
+  font-weight: bold;
+}
+.q2 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.q3 {
+  text-align: right;
+  margin-right: 1%;
+}
+.q4 {
+  color: white;
+  font-weight: bold;
+  background-color: orange;
+}
+.q5 {
+  font-weight: bold;
+  color: red;
+}
+.q6 {
+  font-style: italic;
+  background-color: yellow;
+}
